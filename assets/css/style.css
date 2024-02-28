@@ -1,0 +1,74 @@
+.navbar,
+footer {
+  background: #0f3935;
+}
+
+.navbar .container a:hover {
+  color: #e19a1c;
+}
+
+.navbar .container .das a:hover {
+  color: white;
+}
+
+footer {
+  color: #e19a1c;
+}
+
+.card {
+  background: #0f3935;
+}
+
+.card .card-footer {
+  color: white;
+}
+
+.card .card-footer a {
+  color: #e19a1c;
+}
+
+.navbar-brand {
+  font-family: "Protest Riot", sans-serif;
+  color: #e19a1c;
+}
+
+.modal-body {
+  background: #0f3935;
+}
+
+.modal-body .col-md-4 {
+  color: white;
+}
+
+.modal-body .col-md-4 .scrol {
+  width: 335px;
+  height: 180px;
+  border: 1px solid #0f3935;
+  overflow: auto;
+}
+
+.modal-body .col-md-4 .judul {
+  font-family: "Libre Baskerville", serif;
+  color: #e19a1c;
+  font-weight: bold;
+}
+
+.modal-body .col-md-4 .teks {
+  font-family: "Libre Baskerville", serif;
+}
+
+.modal-body .col-md-4 .scrol .judul {
+  font-family: "Libre Baskerville", serif;
+  color: #e19a1c;
+}
+
+.modal-body .col-md-4 .sticky-bottom .kolom textarea {
+  color: white;
+  border-color: #e19a1c;
+  background: transparent;
+}
+
+.modal-body .col-md-4 .sticky-bottom .btn {
+  color: white;
+  font-weight: bold;
+}
